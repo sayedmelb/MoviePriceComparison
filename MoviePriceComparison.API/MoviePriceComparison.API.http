@@ -1,0 +1,6 @@
+@MoviePriceComparison.API_HostAddress = http://localhost:5217
+
+GET {{MoviePriceComparison.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
